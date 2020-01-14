@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.exe
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.deps.json
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.runtimeconfig.json
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.runtimeconfig.dev.json
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.dll
+D:\VisualStudioProjects\app4\app4\bin\Debug\netcoreapp3.0\app4.pdb
+D:\VisualStudioProjects\app4\app4\obj\Debug\netcoreapp3.0\app4.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\app4\app4\obj\Debug\netcoreapp3.0\app4.AssemblyInfo.cs
+D:\VisualStudioProjects\app4\app4\obj\Debug\netcoreapp3.0\app4.dll
+D:\VisualStudioProjects\app4\app4\obj\Debug\netcoreapp3.0\app4.pdb
+D:\VisualStudioProjects\app4\app4\obj\Debug\netcoreapp3.0\app4.csprojAssemblyReference.cache
